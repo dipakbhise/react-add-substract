@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-add-substract/static/css/main.1328d628.chunk.css",
+    "main.js": "/react-add-substract/static/js/main.55e96ed1.chunk.js",
+    "main.js.map": "/react-add-substract/static/js/main.55e96ed1.chunk.js.map",
+    "runtime-main.js": "/react-add-substract/static/js/runtime-main.d813f479.js",
+    "runtime-main.js.map": "/react-add-substract/static/js/runtime-main.d813f479.js.map",
+    "static/css/2.081f420c.chunk.css": "/react-add-substract/static/css/2.081f420c.chunk.css",
+    "static/js/2.6db41a6e.chunk.js": "/react-add-substract/static/js/2.6db41a6e.chunk.js",
+    "static/js/2.6db41a6e.chunk.js.map": "/react-add-substract/static/js/2.6db41a6e.chunk.js.map",
+    "index.html": "/react-add-substract/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/react-add-substract/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.1328d628.chunk.css.map": "/react-add-substract/static/css/main.1328d628.chunk.css.map",
+    "static/js/2.6db41a6e.chunk.js.LICENSE.txt": "/react-add-substract/static/js/2.6db41a6e.chunk.js.LICENSE.txt",
+    "static/media/Assignment.css": "/react-add-substract/static/media/food-2068217_640.df6506d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d813f479.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.6db41a6e.chunk.js",
+    "static/css/main.1328d628.chunk.css",
+    "static/js/main.55e96ed1.chunk.js"
+  ]
+}
